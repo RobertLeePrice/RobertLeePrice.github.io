@@ -1,11 +1,19 @@
 ---
-title: "Simple Website"
-author: "Robert Price"
-date: "1/17/2022"
-output: html_document
+title: "About Me"
 ---
+# Robert Price
 
-# Example Website
-## Heading 2
-### Heading 3
-Then push index.html to the github.io repo.
+### Currently living in 
+New Orleans, LA
+
+### Working at
+Evonik Corporation 
+
+### Working as a
+Supply Chain Consultant
+
+### Education
+Auburn University 
+Chemical Engineering
+
+The other tabs represent work / analyses that I have completed.  Please check them out!
