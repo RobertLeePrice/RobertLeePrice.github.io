@@ -1,0 +1,11 @@
+---
+title: "Simple Website"
+author: "Robert Price"
+date: "1/17/2022"
+output: html_document
+---
+
+# Example Website
+## Heading 2
+### Heading 3
+Then push index.html to the github.io repo.

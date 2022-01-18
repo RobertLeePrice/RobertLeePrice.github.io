@@ -1,0 +1,8 @@
+name: "Example Site"
+navbar:
+  title: "MSDS-6306"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Beers & Breweries"
+      href: Beers-And-Breweries.html
