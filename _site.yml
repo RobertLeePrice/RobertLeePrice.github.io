@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "Beers & Breweries"
       href: Beers-And-Breweries.html
+    - text: "Employee Attrition"
+      href: Employee-Attrition.html
